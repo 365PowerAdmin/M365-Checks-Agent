@@ -1,4 +1,3 @@
-![thumbnail_file_000000000da46246b4e9f86f1a8900a5](https://github.com/user-attachments/assets/647298f4-8669-4bb4-b09d-56fb202108b2)
 ![thumbnail_file_00000000f81c6243b4847f91dcdc48ed](https://github.com/user-attachments/assets/dd5728fd-e641-48a6-aec1-be0b2bd32c30)
 
 # M365-Checks-Agent
